@@ -8,6 +8,7 @@
 - Project Support Info: [GitHub & Discord etc](https://firegrowthmodel.ca/pages/wise_support_e.html)
 - Source Code: [Here on github](https://github.com/WISE-Developers/WISE_Application)
 - Public Release: As of Jan 2023 Our Project is now Open Source - Releases are [Here](https://github.com/WISE-Developers/WISE_Application/releases)
+- WISE Geneology: [Promethues->WISE as a Git Graph](https://github.com/WISE-Developers/Project_issues/blob/main/geneology.md)
 
 ## Build Status
 
