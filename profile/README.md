@@ -1,4 +1,9 @@
-[![WISE social image](https://raw.githubusercontent.com/WISE-Developers/Project_issues/main/wiserepo.png)](https://github.com/WISE-Developers/Project_issues)
+
+<div align="center">
+<a target="_blank" href="https://github.com/WISE-Developers/Project_issues"><img alt ="WISE social image" width="400px" src="https://raw.githubusercontent.com/WISE-Developers/Project_issues/main/wiserepo.png" /></a>
+
+</div>
+
 
 ## Info
 - Twitter: @WISEProject2
