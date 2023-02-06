@@ -17,30 +17,26 @@
 
 ## Build Status
 
+### Components 
+
 [WISE Application:](https://github.com/WISE-Developers/WISE_Application/releases)
 
-![Release](https://img.shields.io/github/v/release/WISE-Developers/WISE_Application?display_name=tag)
-
-[![CMake](https://github.com/WISE-Developers/WISE_Application/actions/workflows/cmake.yml/badge.svg?branch=main)](https://github.com/WISE-Developers/WISE_Application/actions/workflows/cmake.yml)
+![Release](https://img.shields.io/github/v/release/WISE-Developers/WISE_Application?display_name=tag) [![CMake](https://github.com/WISE-Developers/WISE_Application/actions/workflows/cmake.yml/badge.svg?branch=main)](https://github.com/WISE-Developers/WISE_Application/actions/workflows/cmake.yml)
 
 [WISE Builder:](https://github.com/WISE-Developers/WISE_Builder_Component/releases)
 
-![Release](https://img.shields.io/github/v/release/WISE-Developers/WISE_Builder_Component?display_name=tag)
-
-[![Maven Package](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml)
+![Release](https://img.shields.io/github/v/release/WISE-Developers/WISE_Builder_Component?display_name=tag) [![Maven Package](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml)
 
 [WISE Manager:](https://github.com/WISE-Developers/WISE_Manager_Component/releases)
 
-![Release](https://img.shields.io/github/v/release/WISE-Developers/WISE_Manager_Component?display_name=tag)
+![Release](https://img.shields.io/github/v/release/WISE-Developers/WISE_Manager_Component?display_name=tag) [![Maven Package](https://github.com/WISE-Developers/WISE_Manager_Component/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Manager_Component/actions/workflows/maven-publish.yml)
 
-[![Maven Package](https://github.com/WISE-Developers/WISE_Manager_Component/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Manager_Component/actions/workflows/maven-publish.yml)
+### APIs
 
-[WISE: Java API](https://github.com/WISE-Developers/WISE_Java_API/releases)
+[WISE: Java API:](https://github.com/WISE-Developers/WISE_Java_API/releases)
 
-![Release](https://img.shields.io/github/v/release/WISE-Developers/WISE_Java_API?display_name=tag)
+![Release](https://img.shields.io/github/v/release/WISE-Developers/WISE_Java_API?display_name=tag) [![Maven Package](https://github.com/WISE-Developers/WISE_Java_API/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Java_API/actions/workflows/maven-publish.yml)
 
-[![Maven Package](https://github.com/WISE-Developers/WISE_Java_API/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Java_API/actions/workflows/maven-publish.yml)
+[WISE: JS API:](https://github.com/WISE-Developers/WISE_JS_API/releases)
 
-[WISE: JS API](https://github.com/WISE-Developers/WISE_JS_API/releases)
-
-![Release](https://img.shields.io/github/v/release/WISE-Developers/WISE_JS_API?display_name=tag)
+![Release](https://img.shields.io/github/v/release/WISE-Developers/WISE_JS_API?display_name=tag) [![Archive the source](https://github.com/WISE-Developers/WISE_JS_API/actions/workflows/archive.yml/badge.svg)](https://github.com/WISE-Developers/WISE_JS_API/actions/workflows/archive.yml)
