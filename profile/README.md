@@ -9,7 +9,7 @@
 - Twitter: @WISEProject2
 - Web: [FireGrowthModel.ca](https://firegrowthmodel.ca/pages/wise_overview_e.html)
 - Licence: [Affero General Public License Version 3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
-- Documentation: [Current API Docs](https://firegrowthmodel.ca/pages/wise_documentation_e.html)
+- Documentation: [Current API Docs](https://wisedocs.intellifirenwt.com)
 - Project Support Info: [GitHub & Discord etc](https://firegrowthmodel.ca/pages/wise_support_e.html)
 - Source Code: [Here on github](https://github.com/WISE-Developers/WISE_Application)
 - Public Release: As of Jan 2023 Our Project is now Open Source - Releases are [Here](https://github.com/WISE-Developers/WISE_Application/releases)
