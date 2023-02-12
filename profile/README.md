@@ -29,6 +29,9 @@
 
 ![badge smoketest 2204](https://img.shields.io/github/actions/workflow/status/WISE-Developers/WISE_Application/smoketest_2204.yml?label=Smoke%20Test%20Ubuntu%2022.04%20&logo=github)
 
+![deb file validation](https://img.shields.io/github/actions/workflow/status/WISE-Developers/WISE_Application/deb_test.yml?label=.deb%20validation&logo=github&style=plastic)
+
+
 
 [![builder badge](https://badgen.net/badge/WISE%20Builder/Repository?icon=github&scale=2)](https://github.com/WISE-Developers/WISE_Builder_Component)
 
