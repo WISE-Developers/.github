@@ -25,6 +25,11 @@
 
 [![CMake](https://github.com/WISE-Developers/WISE_Application/actions/workflows/cmake.yml/badge.svg?branch=main)](https://github.com/WISE-Developers/WISE_Application/actions/workflows/cmake.yml)
 
+![badge smoketest 2004](https://img.shields.io/github/actions/workflow/status/WISE-Developers/WISE_Application/smoketest_2004.yml?label=Smoke%20Test%20Ubuntu%2020.04%20&logo=github)
+
+![badge smoketest 2204](https://img.shields.io/github/actions/workflow/status/WISE-Developers/WISE_Application/smoketest_2204.yml?label=Smoke%20Test%20Ubuntu%2022.04%20&logo=github)
+
+
 [![builder badge](https://badgen.net/badge/WISE%20Builder/Repository?icon=github&scale=2)](https://github.com/WISE-Developers/WISE_Builder_Component)
 
 [![Release](https://badgen.net/github/release/WISE-Developers/WISE_Builder_Component?icon=github&scale=2)](https://github.com/WISE-Developers/WISE_Builder_Component/releases/latest)
