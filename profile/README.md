@@ -6,7 +6,7 @@
 
 
 ## Info
-- Twitter: @WISEProject2
+- Twitter: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40WISEProject2)](https://twitter.com/WISEProject2)
 - Web: [FireGrowthModel.ca](https://firegrowthmodel.ca/pages/wise_overview_e.html)
 - Licence: [Affero General Public License Version 3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
 - Documentation: [Current API Docs](https://wisedocs.intellifirenwt.com)
