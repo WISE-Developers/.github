@@ -47,6 +47,15 @@
 
 [![Maven Package](https://github.com/WISE-Developers/WISE_Manager_Component/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Manager_Component/actions/workflows/maven-publish.yml)
 
+### Helpers
+
+[![REDapp_Lib badge](https://badgen.net/badge/WISE%20REDapp_Lib/Repository?icon=github&scale=2)](https://github.com/WISE-Developers/REDapp_Lib)
+
+[![Release](https://badgen.net/github/release/WISE-Developers/REDapp_Lib?icon=github&scale=2)](https://github.com/WISE-Developers/REDapp_Lib/releases/latest)
+
+
+[![Maven Package](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml)
+
 ### APIs
 
 [![java api badge](https://badgen.net/badge/WISE%20Java%20API/Repository?icon=github&scale=2)](https://github.com/WISE-Developers/WISE_Java_API)
