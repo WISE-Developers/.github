@@ -27,17 +27,15 @@ body:
   - type: textarea
     id: who-is-fixing
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Who is fixing
+      description: Who is going to do this work?
+      placeholder: Tell us who you are
   - type: textarea
     id: why-does-it-matter
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Why is this happening?
+      description: Tell us why this is necessary
+      placeholder: Why?
     validations:
       required: true
   - type: dropdown
