@@ -1,0 +1,29 @@
+name: WISE Website Feedback
+description: Offer comments and feedback about the WISE Website
+title: "[WISE Website Feedback]: "
+labels: ["feature", "triage", "W.I.S.E."]
+assignees:
+  - spydmobile
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report! By submitting this issue, you agree to follow our [Code of Conduct](https://firegrowthmodel.ca/pages/conduct.html)
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: your-thoughts
+    attributes:
+      label: Your thoughts?
+      description: Dont be shy tell us what you really think!
+      placeholder: Tell us what you want!
+      value: "I would like a purple widget added to the about screen below the version number!"
+    validations:
+      required: true
+ 
