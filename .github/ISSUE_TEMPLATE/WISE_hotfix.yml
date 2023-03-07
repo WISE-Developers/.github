@@ -12,7 +12,7 @@ body:
   - type: input
     id: contact
     attributes:
-      label: Contact Details
+      label: Contact Details - Who is fixing this
       description: How can we get in touch with you if we need more info?
       placeholder: ex. email@example.com
     validations:
@@ -23,13 +23,6 @@ body:
       label: What happened?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
-      value: "A bug happened!"
-  - type: textarea
-    id: who-is-fixing
-    attributes:
-      label: Who is fixing
-      description: Who is going to do this work?
-      placeholder: Tell us who you are
   - type: textarea
     id: why-does-it-matter
     attributes:
@@ -38,29 +31,6 @@ body:
       placeholder: Why?
     validations:
       required: true
-  - type: dropdown
-    id: version
-    attributes:
-      label: Version
-      description: What version of our software are you running (if your version is not listed, download the latest instead)?
-      options:
-        - (Ubuntu 2020) v1.0.0-beta
-        - (Ubuntu 2022) v1.0.0-beta
-        - (Windows) v1.0.0-beta
-    validations:
-      required: true
-  - type: dropdown
-    id: component
-    attributes:
-      label: What component are you seeing the problem on?
-      multiple: true
-      options:
-        - Builder
-        - Manager
-        - WISE Binary
-        - JS Api
-        - Documentation
-        - Other (indicate in "What happened" above)
   - type: textarea
     id: logs
     attributes:
